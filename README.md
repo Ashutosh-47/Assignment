@@ -1,3 +1,9 @@
+This is the assignment for the Wasserstoff Pvt. Ltd. Company, and in it I tried to make the design according to the design that was provided. It primarily displays Corona Cases from around the world, along with the total number of cases (deaths and recoveries) from various locations worldwide, and then some of the data on the world map based on the cases they have.
+ 
+Click on the Statistics button, and you can see a pop-up modal and data in bubble-chart format between death and recovery rates. For this assignment, I used different npm packages, different packages for charts and maps, and for APIs, I used the rapidapi site to get the correct API to fetch data from it.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
