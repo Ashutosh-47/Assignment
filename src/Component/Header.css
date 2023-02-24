@@ -1,0 +1,76 @@
+.main{
+height: 60px;
+width: 1540px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+display: flex;
+flex-direction: row-reverse;
+justify-content: space-between;
+}
+
+.search{
+    height: 32px;
+width: 350px;
+left: 0px;
+top: 0px;
+border-radius: 8px;
+position: absolute;
+left: 400px;
+top: 14px;
+background: #EEF0FA;
+border-radius: 8px;
+display: flex;
+flex-direction: row;
+
+}
+.searcharear{
+    width: 90%;
+    height: 90%;
+    background: #EEF0FA;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+  
+}
+
+.searcharear:focus{
+    outline: none;
+}
+
+.fields{
+    width: 60%;
+    position: absolute;
+    display: flex;
+    left: 780px;
+    top: -30px;
+    flex-direction: row;
+    justify-content:flex-start; 
+    align-items: center;
+    /* width: 75px;
+height: 24px; */
+
+}
+
+.fil{
+    width: 75px;
+    height: 24px;
+    margin: 5%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 26px;
+line-height: 24px;
+letter-spacing: 0.44px;
+cursor: pointer;
+color: #8484A0;
+}
+

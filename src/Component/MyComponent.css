@@ -1,0 +1,112 @@
+.mainA{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 10px;
+gap: 12px;
+background: #FFFFFF;
+border-radius: 16px;
+
+width: 100px;
+height: 30px;
+border-radius: 16px;
+
+}
+
+.chic{
+position: absolute;
+left: 620px;
+top: 160px;
+}
+.mainB{
+    position: absolute;
+    left: 5.43%;
+    right: 72.83%;
+    top: 16.67%;
+    bottom: 16.67%;
+    border-radius: 9px;
+}
+.chicB{
+     
+    background: #66C8FF;
+    
+}
+
+.chicD{
+
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    width: 71px;
+height: 20px;
+position: absolute;
+    left: 35.43%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+
+letter-spacing: 0.44px;
+
+/* Night Blue */
+
+color: #383874;
+}
+
+.braz{
+    position: absolute;
+    left: 720px;
+    top: 400px;   
+}
+
+.germ{
+    position: absolute;
+    left: 980px;
+    top: 260px;
+}
+
+.rus{
+    position: absolute;
+    left: 1180px;
+    top: 160px;
+}
+
+.jap{
+    position: absolute;
+    left: 1350px;
+    top: 480px;
+}
+
+.brazA{
+
+background: #7BDDA2;
+
+}
+
+.germA{
+
+    background: #F8A243;
+
+}
+
+.rusA{
+
+    background: #669AFF;
+
+}
+
+.japA{
+
+background: #FF7E7E;
+;
+
+}
+
+.japD , .rusD , .brazD , .germD{
+    position: absolute;
+    left: 35.43%;
+}

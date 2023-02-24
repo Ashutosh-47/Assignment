@@ -1,0 +1,13 @@
+.graphmain{
+  
+    height: 88vh;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+}
+
+.gmain{
+    background: #E2E4F0;
+margin-left: 0%;
+width: 95%;
+}

@@ -1,0 +1,31 @@
+.foot{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 17px;
+
+position: absolute;
+width: 1670px;
+height: 86px;
+left: calc(50% - 1800px/2);
+bottom: 66px;
+position: absolute;
+top:98%;
+background-color: blueviolet;
+/* background: #FFFFFF; */
+
+box-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07), 0px 41.7776px 33.4221px rgba(108, 73, 172, 0.0503198), 0px 22.3363px 17.869px rgba(108, 73, 172, 0.0417275), 0px 12.5216px 10.0172px rgba(108, 73, 172, 0.035), 0px 6.6501px 5.32008px rgba(108, 73, 172, 0.0282725), 0px 2.76726px 2.21381px rgba(108, 73, 172, 0.0196802);
+border-radius: 10px;
+
+}
+
+.footChart{
+    /* width: 100px;
+height: 16px;
+position: absolute;
+top: 130px;
+left: 120px;
+background-color: pink;*/
+  
+}
